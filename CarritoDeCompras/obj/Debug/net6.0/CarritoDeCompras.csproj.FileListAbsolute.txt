@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\bin\Debug\net6.0\CarritoDeCompras.exe
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\bin\Debug\net6.0\CarritoDeCompras.deps.json
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\bin\Debug\net6.0\CarritoDeCompras.runtimeconfig.json
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\bin\Debug\net6.0\CarritoDeCompras.dll
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\bin\Debug\net6.0\CarritoDeCompras.pdb
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0\CarritoDeCompras.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0\CarritoDeCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0\CarritoDeCompras.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0\CarritoDeCompras.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0\CarritoDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0\CarritoDeCompras.dll
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0\refint\CarritoDeCompras.dll
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0\CarritoDeCompras.pdb
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0\CarritoDeCompras.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0\ref\CarritoDeCompras.dll
